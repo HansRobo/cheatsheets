@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://devhints.io/</loc></url>
-<url><loc>https://devhints.io/101</loc></url>
 <url><loc>https://devhints.io/ansible-examples</loc></url>
 <url><loc>https://devhints.io/ansible-guide</loc></url>
 <url><loc>https://devhints.io/ansible-modules</loc></url>
@@ -29,13 +28,6 @@
 <url><loc>https://devhints.io/git-tricks</loc></url>
 <url><loc>https://devhints.io/go</loc></url>
 <url><loc>https://devhints.io/wip/intl-datetime</loc></url>
-<url><loc>https://devhints.io/layout-thrashing</loc></url>
-<url><loc>https://devhints.io/ledger-csv</loc></url>
-<url><loc>https://devhints.io/ledger-examples</loc></url>
-<url><loc>https://devhints.io/ledger-format</loc></url>
-<url><loc>https://devhints.io/ledger-periods</loc></url>
-<url><loc>https://devhints.io/ledger-query</loc></url>
-<url><loc>https://devhints.io/ledger</loc></url>
 <url><loc>https://devhints.io/less</loc></url>
 <url><loc>https://devhints.io/licenses</loc></url>
 <url><loc>https://devhints.io/linux</loc></url>
