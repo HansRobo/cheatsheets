@@ -62,7 +62,7 @@ jobs:
 
       - run: yarn build
 
-      - name: "Deploy to gh-pages 🚀"
+      - name: "Deploy to gh-pages 🚀" 
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
