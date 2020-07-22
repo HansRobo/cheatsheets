@@ -14,7 +14,6 @@ trap exit_failure ERR
 
 files=(
   _site/vim.html
-  _site/react.html
   _site/index.html
 )
 
