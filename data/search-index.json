@@ -445,7 +445,7 @@
   "url": "/redirects.json",
   "category": "Others",
   "keywords": null,
-  "content_html": "<p>{“/package.html”:”https://devhints.io/package.json”,”/sh.html”:”https://devhints.io/bash”}</p>",
+  "content_html": "<p>{“/package.html”:”https://hansrobo.github.io/cheatsheets/package.json”,”/sh.html”:”https://hansrobo.github.io/cheatsheets/bash”}</p>",
   "intro_html": "",
   "description_html": "",
   "tags": null,
