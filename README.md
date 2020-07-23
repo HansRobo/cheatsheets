@@ -13,9 +13,9 @@ TL;DR for developer documentation - a ridiculous collection of cheatsheets
 <br>
 
 <p align='center'>
-<a href='https://devhints.io/'><img src='_docs/images/screenshot.png' width=600></a>
+<a href='https://hansrobo.github.io/cheatsheets'><img src='_docs/images/screenshot.png' width=600></a>
 <br>
-✨ <b><a href='https://devhints.io/'>devhints.io</a></b> ✨
+✨ <b><a href='https://hansrobo.github.io/cheatsheets'>devhints.io</a></b> ✨
 </p>
 
 <br>
@@ -24,4 +24,4 @@ TL;DR for developer documentation - a ridiculous collection of cheatsheets
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for developer notes.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rstacruz/cheatsheets)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/HansRobo/cheatsheets)
